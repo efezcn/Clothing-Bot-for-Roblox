@@ -1,0 +1,1 @@
+If u want to copyright asset u copied (what a pathetic fr) u must put here a template. 

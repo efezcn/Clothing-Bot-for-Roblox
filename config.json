@@ -1,0 +1,16 @@
+{
+    "groups": {
+        "14116868": {
+            "uploader_cookies": ["COOKIEHERE"]
+        }
+    },
+    "sleep_each_upload": 3,
+    "assets_price": 5,
+    "description": "U should put some popular words here ig. Also u can buy my multitool to fav bot to ur assets..",
+    "max_nudity_value": 0.1,
+    "blacklisted_words": [],
+    "upload_without_blacklisted_words": true,
+    "blacklisted_creators": [],
+    "searching_tags": "",
+    "require_one_tag_in_name": false
+}
